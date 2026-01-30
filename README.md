@@ -18,3 +18,31 @@ A Javascript code repo
 ## Images
 
 ![Kevin Mitnick](https://upload.wikimedia.org/wikipedia/commons/f/f6/Kevin_Mitnick_%284892570820%29.jpg)
+
+#### ![alt Text of Image](Image destination link)
+
+---
+use `for` loop
+
+``` JavaScript
+
+const num = 29;
+
+let isPrime = true;
+if (num <= 1) {
+  isPrime = false;
+} else {
+  for (let i = 2; i <= Math.sqrt(num); i++) {
+    if (num % i === 0) {
+      isPrime = false;
+      break;
+    }
+  }
+}
+if (isPrime) {
+  console.log(num + " is a prime number");
+} else {
+  console.log(num + " is not a prime number");
+}
+
+```
