@@ -14,3 +14,7 @@ A Javascript code repo
 
 [Google](https://www.google.com/)
  #### Syntax-: `[]()` -: For Links u have to use `[This should contain what u want to show the user](This contain actual Destination Link)`
+
+## Images
+
+![Kevin Mitnick](https://www.google.com/search?q=Kevin+Mitnick&udm=2)
