@@ -57,5 +57,5 @@ if (isPrime) {
 ## Tables
 
 |Name|Age|Adress|
-|_ _ _|_ _ _|_ _ _|
-| NatbarLal | 07 | Dwaraka |
+|--- |--- |--- |
+|NatbarLal |07 |Dwaraka |
