@@ -59,3 +59,8 @@ if (isPrime) {
 |Name|Age|Adress|
 |--- |--- |--- |
 |NatbarLal |07 |Dwaraka |
+
+### Syntax -: 
+               |Table|Goes|Here|
+               |---|---|---|
+               |Content|Content|Content|
