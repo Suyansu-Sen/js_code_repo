@@ -15,6 +15,7 @@ A Javascript code repo
 [Google](https://www.google.com/)
  #### Syntax-: `[]()` -: For Links u have to use `[This should contain what u want to show the user](This contain actual Destination Link)`
 
+---
 ## Images
 
 ![Kevin Mitnick](https://upload.wikimedia.org/wikipedia/commons/f/f6/Kevin_Mitnick_%284892570820%29.jpg)
@@ -45,9 +46,9 @@ if (isPrime) {
   console.log(num + " is not a prime number");
 }
 ```
-## `Syntax -: ```
+## Syntax -: 
+            ```
               <Language Name>
               Code Section
-          ```
-          `
+            ```
 ---
