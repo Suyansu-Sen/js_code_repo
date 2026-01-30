@@ -69,6 +69,8 @@ if (isPrime) {
 
 > Keep Smiling 😊 and Work Continuously ❤️
 
+___
+
 ### Ordered List
 1. List One
 2. List Two
@@ -91,5 +93,8 @@ if (isPrime) {
    + Potato
    * Spinach
    * Lal Mirchi
+
+**`Bye Guys Keep Learning, Day by Day`**
+     
      
 
