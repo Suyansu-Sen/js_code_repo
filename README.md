@@ -23,6 +23,7 @@ A Javascript code repo
 #### ![alt Text of Image](Image destination link)
 
 ---
+## To Show Code Section
 Use of `for` loop
 
 ``` JavaScript
@@ -52,3 +53,9 @@ if (isPrime) {
               Code Section
             ```
 ---
+
+## Tables
+
+| Name | Age | Adress
+| ___ | ___ | ___ |
+| NatbarLal | 07 | Dwaraka |
