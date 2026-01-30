@@ -11,5 +11,6 @@ A Javascript code repo
 
 ---
 ##**Links**
+
 [Google](https://www.google.com/)
- #### Syntax-: For Links u have to use `[This should contain what u want to show the user](This contain actual Destination Link)`
+ #### Syntax-: `[]()` -: For Links u have to use `[This should contain what u want to show the user](This contain actual Destination Link)`
