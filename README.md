@@ -69,12 +69,27 @@ if (isPrime) {
 
 > Keep Smiling 😊 and Work Continuously ❤️
 
-1.List one
-2.List Two
-3.List Three
+### Ordered List
+1. List One
+2. List Two
+3. List Three
 
+1. li1
+2. li2
+3. li3
 
-1.li1
-1.Li2
-1.Li3
-___List For
+**List Four**
+
+### Nested List containing UnOrdered List
+1. Fruits
+   - Apple
+   - Banana
+   - Mango
+
+2. Vegetables
+   + Carrot
+   + Potato
+   * Spinach
+   * Lal Mirchi
+     
+
