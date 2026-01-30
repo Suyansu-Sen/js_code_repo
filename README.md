@@ -17,4 +17,4 @@ A Javascript code repo
 
 ## Images
 
-![Kevin Mitnick](https://share.google/dJd0ju6jD0x3jShK0)
+![Kevin Mitnick](https://upload.wikimedia.org/wikipedia/commons/f/f6/Kevin_Mitnick_%284892570820%29.jpg)
