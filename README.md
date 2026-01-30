@@ -67,5 +67,5 @@ if (isPrime) {
                 u can also add spaces, 3 dash line(-) and pipeline Symbol is used (|)
 ---          
 
-> Keep Smiling 😊 and Work Continuously ❤️
+> `Keep Smiling 😊 and Work Continuously ❤️`
                 
