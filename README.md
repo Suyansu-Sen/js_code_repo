@@ -10,4 +10,6 @@ A Javascript code repo
 ~~1000~~ **9000** -> For cross line on the price u hv to `keep in between 4 tilde Symbol`
 
 ---
-`**Links**`
+##**Links**
+[Google](https://www.google.com/)
+ #### Syntax-: For Links u have to use `[This should contain what u want to show the user](This contain actual Destination Link)`
