@@ -22,7 +22,7 @@ A Javascript code repo
 #### ![alt Text of Image](Image destination link)
 
 ---
-use `for` loop
+Use of `for` loop
 
 ``` JavaScript
 
@@ -44,5 +44,10 @@ if (isPrime) {
 } else {
   console.log(num + " is not a prime number");
 }
-
 ```
+## `Syntax -: ```
+              <Language Name>
+              Code Section
+          ```
+          `
+---
