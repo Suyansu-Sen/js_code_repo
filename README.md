@@ -67,5 +67,14 @@ if (isPrime) {
                 u can also add spaces, 3 dash line(-) and pipeline Symbol is used (|)
 ---          
 
-> `Keep Smiling 😊 and Work Continuously ❤️`
-                
+> Keep Smiling 😊 and Work Continuously ❤️
+
+1.List one
+2.List Two
+3.List Three
+
+
+1.li1
+1.Li2
+1.Li3
+---List For
